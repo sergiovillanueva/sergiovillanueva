@@ -15,8 +15,10 @@ need no training per product.
 | [patch-purification-fewshot](https://github.com/sergiovillanueva/patch-purification-fewshot) | Flags defective images in the reference set when a station is commissioned |
 | [rgb-ensembles-industrial-uad](https://github.com/sergiovillanueva/rgb-ensembles-industrial-uad) | Detector ensembles on a real automotive benchmark |
 
-**Teaching.** [Foundation models for computer vision](https://datamecum.sergiovillanuevalopez.com), a master's course
-with interactive labs and Colab notebooks (in Spanish).
+**Teaching** (in Spanish, CC BY-NC-SA). [Foundation models for computer vision](https://github.com/sergiovillanueva/Modelos_Fundacionales),
+a master's course with a [website with interactive labs](https://datamecum.sergiovillanuevalopez.com) and one Colab
+notebook per topic, and [From prompt to mask](https://github.com/sergiovillanueva/prompt_to_mask), a university seminar
+on text-guided segmentation with Grounding DINO, Qwen and SAM.
 
 **Side project.** [Stairway to Art](https://stairwaytoart.com), a history-of-art card game. I made the website, with
 a QR checker that runs in the browser, and the Python pipeline that prepares the print files. The crowdfunding
